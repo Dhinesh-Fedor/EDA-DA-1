@@ -1,0 +1,1 @@
+The dataset used for the analysis was downloaded from here - https://www.kaggle.com/datasets/iamsouravbanerjee/inequality-in-income-across-the-globe/data
